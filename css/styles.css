@@ -141,6 +141,14 @@ a:hover {
   text-align: center;
   margin: 40px auto 60px;
 }
+
+.chat {
+  font-size: larger;
+  font-family: "Montserrat", sans-serif;
+  /* padding-top: 10px; */
+  /* padding-bottom: 20px; */
+}
+
 .footer-link {
   font-size: large;
   color: black;
